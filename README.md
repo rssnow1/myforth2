@@ -1,2 +1,2 @@
 # myforth2
- VScode versioin of forth.c
+ VScode version of forth.c
